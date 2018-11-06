@@ -1,7 +1,16 @@
 
-DATASETS
+SIGN UP FOR WEEK 11
 
-1. Credit card data [[Click here to download data in .xls format]](https://www.dropbox.com/s/b1c1amefi29jnzk/Credit.xls?dl=1)
+* [[Click here]](https://docs.google.com/forms/d/e/1FAIpQLSe6PJL8m2PsRnuBuGUfwGbVX_F0Dzs0317dW6ZXfrGARF3ksA/viewform?usp=pp_url)
 
 
-[DOWNLOAD SUMMARY SLIDES BY CLICKING HERE](https://www.dropbox.com/s/k8gvgwmouaqt3k1/week-5-summary.pptx?dl=1)
+DATASETS [[Click here]](https://www.dropbox.com/sh/zm9grjzo5z9zsqx/AABYuGUZce0LrLScxP2ZbtF8a?dl=0)
+
+1. Credit card data 
+
+2. Shirt data 
+
+3. Practice data sets 
+
+
+
