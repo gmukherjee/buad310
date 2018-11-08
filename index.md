@@ -7,18 +7,16 @@ SIGN UP FOR WEEK 11  [[Click here to sign up]](https://docs.google.com/forms/d/e
 
 DATASETS 
 
-1. Credit Card Data 
+- Credit Card Data 
 
  * [[Click here to download data in excel format]](https://www.dropbox.com/sh/zm9grjzo5z9zsqx/AABYuGUZce0LrLScxP2ZbtF8a?dl=1)
 
-2. Shirts Data
-
+<!--2. Shirts Data
  * [[Click here to download question file]](https://www.dropbox.com/s/7237v845qpbharc/shirts.pdf?dl=1) 
-
  * [[Click here to download data file in excel format]](https://www.dropbox.com/s/dmkv4dc2cv6syrj/shirts.xlsx?dl=1)
+-->
 
-
-3. Some Practice Problems 
+- Some Practice Problems 
 
  * [[Click here to download question file]](https://www.dropbox.com/s/r2tzlj2cff6ibb5/practice.pdf?dl=1) 
 
